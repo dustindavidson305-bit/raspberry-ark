@@ -1,0 +1,5 @@
+PRETTY_NAME="Raspbian GNU/Linux 11 (bullseye)"
+NAME="Raspbian GNU/Linux"
+VERSION_ID="11"
+VERSION_CODENAME=bullseye
+ID=raspbian
